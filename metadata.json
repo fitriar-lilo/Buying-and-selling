@@ -1,0 +1,6 @@
+{
+  "name": "IGCSE Math 0580: Buying and Selling",
+  "description": "Interactive Cambridge IGCSE Mathematics 0580 digital learning module on Buying and Selling (Cost Price, Selling Price, Profit, Loss, and Percentages) with guided practice, hint toggles, local storage saving, and downloadable PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
